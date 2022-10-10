@@ -86,5 +86,16 @@
         "tokenAddressLPV2": "0x1851ccd370c444ff494d7505e6103959bce9f9d9",
         "contractLP": "0xF98De800613A0f199eCFd595eb6Ef745D25d02FA",
         "test": "0x242a227B38f704983FF101DC7De573ED8111601e"
+    },
+    {
+        "tokenName": "BNB",
+        "tokenPrice": "BNBUSDT",
+        "tokenAddress": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "LPV1Name": "BUSD",
+        "LPV2Name": "BNB",
+        "tokenAddressLPV1": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "tokenAddressLPV2": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "contractLP": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16",
+        "test": "0x242a227B38f704983FF101DC7De573ED8111601e"
     }
 ]
