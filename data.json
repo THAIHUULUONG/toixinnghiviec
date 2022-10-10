@@ -75,5 +75,16 @@
         "tokenAddressLPV2": "0x5e2689412fae5c29bd575fbe1d5c1cd1e0622a8f",
         "contractLP": "0x70af29aA37e3e0Ce18F3c52543cd708BEcAB0f6a",
         "test": "0x0c3b12fCA25bfa840E0553DA97C532e9Abd3913d"
+    },
+    {
+        "tokenName": "ONUS",
+        "tokenPrice": "ONUSUSDT",
+        "tokenAddress": "0x1851ccd370c444ff494d7505e6103959bce9f9d9",
+        "LPV1Name": "BUSD",
+        "LPV2Name": "ONUS",
+        "tokenAddressLPV1": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "tokenAddressLPV2": "0x1851ccd370c444ff494d7505e6103959bce9f9d9",
+        "contractLP": "0xF98De800613A0f199eCFd595eb6Ef745D25d02FA",
+        "test": "0x242a227B38f704983FF101DC7De573ED8111601e"
     }
 ]
