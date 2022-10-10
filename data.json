@@ -62,7 +62,7 @@
         "LPV2Name": "ADT",
         "tokenAddressLPV1": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
         "tokenAddressLPV2": "0xc008debbb1f33d9453ffd2104feb1fe7e9663524",
-        "contractLP": "0x70af29aA37e3e0Ce18F3c52543cd708BEcAB0f6a",
+        "contractLP": "0x1471f69c24A9BBA486c2A23BF9f55fFC64376BEd",
         "test": "0x1471f69c24A9BBA486c2A23BF9f55fFC64376BEd"
     },
     {
@@ -73,7 +73,7 @@
         "LPV2Name": "HTD",
         "tokenAddressLPV1": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
         "tokenAddressLPV2": "0x5e2689412fae5c29bd575fbe1d5c1cd1e0622a8f",
-        "contractLP": "0x70af29aA37e3e0Ce18F3c52543cd708BEcAB0f6a",
+        "contractLP": "0x0c3b12fCA25bfa840E0553DA97C532e9Abd3913d",
         "test": "0x0c3b12fCA25bfa840E0553DA97C532e9Abd3913d"
     },
     {
