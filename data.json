@@ -97,5 +97,15 @@
         "tokenAddressLPV2": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
         "contractLP": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16",
         "test": "0x242a227B38f704983FF101DC7De573ED8111601e"
+    },
+    {
+        "tokenName": "FALCONS",
+        "tokenPrice": "FALCONSUSDT",
+        "tokenAddress": "0xb139ed26b743c7254a246cf91eb594d097238524",
+        "LPV1Name": "BUSD",
+        "LPV2Name": "FALCONS",
+        "tokenAddressLPV1": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "tokenAddressLPV2": "0xb139ed26b743c7254a246cf91eb594d097238524",
+        "contractLP": "0x40aFA6230BC98ad21CD0Cb8bc2411E59F53693F7",
     }
 ]
