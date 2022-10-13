@@ -98,15 +98,5 @@
         "tokenAddressLPV1": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
         "tokenAddressLPV2": "0xb139ed26b743c7254a246cf91eb594d097238524",
         "contractLP": "0x40aFA6230BC98ad21CD0Cb8bc2411E59F53693F7"
-    },
-    {
-        "tokenName": "BIZVERSE",
-        "tokenPrice": "BIVEUSDT",
-        "tokenAddress": "0x130e6203f05805cd8c44093a53c7b50775eb4ca3",
-        "LPV1Name": "BUSD",
-        "LPV2Name": "BIZVERSE",
-        "tokenAddressLPV1": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-        "tokenAddressLPV2": "0x130e6203f05805cd8c44093a53c7b50775eb4ca3",
-        "contractLP": "0x40aFA6230BC98ad21CD0Cb8bc2411E59F53693F7"
     }
 ]
